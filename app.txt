@@ -1,1 +1,1 @@
-dashdash-bootstrap-componentsgnewstransformerstorchpandas
+streamlit==1.31.0gnews==0.3.7transformers==4.37.0torch==2.1.0pandas==2.2.0
