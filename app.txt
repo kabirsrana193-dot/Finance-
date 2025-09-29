@@ -1,1 +1,1 @@
-streamlit==1.31.0gnews==0.3.7transformers==4.37.0torch==2.1.0pandas==2.2.0
+streamlit==1.31.0transformers==4.37.0torch==2.1.0pandas==2.2.0feedparser==6.0.10beautifulsoup4==4.12.3requests==2.31.0
