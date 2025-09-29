@@ -1,0 +1,1 @@
+streamlit>=1.28.0pandas>=2.0.0feedparser>=6.0.10textblob>=0.17.1
